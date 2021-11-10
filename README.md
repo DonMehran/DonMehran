@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DonMehran
 - 👀 I’m interested in Python and Data science
 - 🌱 I’m currently learning Python and Django
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python realate projects
 - 📫 How to reach me SendMeAnEmail = "mehran1991@gmail"
 
 <!---
